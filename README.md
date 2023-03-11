@@ -32,7 +32,7 @@ else:
     print("El numero ascii de la primera letra es impar")
 ```
 [![Captura-de-pantalla-2023-03-11-153959.png](https://i.postimg.cc/3wWprfWt/Captura-de-pantalla-2023-03-11-153959.png)](https://postimg.cc/KKS4JNPT)
-### Tercer punto
+## Tercer punto
 Dado un carácter, construya un programa en Python para determinar si el carácter es un dígito o no.
 ``` python
 b=input("Ingrese un solo carácter")
@@ -44,7 +44,7 @@ else :
     print("el carácter "+str(b)+" es un dígito ")
 ```
 [![Captura-de-pantalla-2023-03-11-154910.png](https://i.postimg.cc/tJFvS4jn/Captura-de-pantalla-2023-03-11-154910.png)](https://postimg.cc/n9c1MZMn)
-#### Cuarto punto
+## Cuarto punto
 Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. Para cada caso de debe imprimir el texto que se especifica a continuación:
 
 Positivo: "El número x es positivo"
@@ -61,7 +61,7 @@ else:
     print( "El número x es el neutro para la suma")
 ```
 [![Captura-de-pantalla-2023-03-11-155033.png](https://i.postimg.cc/xTRtc7TQ/Captura-de-pantalla-2023-03-11-155033.png)](https://postimg.cc/bsZQ5mtV)
-##### Quinto punto
+## Quinto punto
 Dado el centro y el radio de un círculo, determinar si un punto de R2 pertenece o no al interior del círculo.
 ```python 
 x = float (input("Ingrese la coordenada en x del centro del circulo: "))
@@ -75,7 +75,7 @@ else:
     print ("El punto en R2 " + str(a) + ", " + str(b) + " no pertenece al interior del circulo ")
 ```
 [![Captura-de-pantalla-2023-03-11-155125.png](https://i.postimg.cc/bN39zt3N/Captura-de-pantalla-2023-03-11-155125.png)](https://postimg.cc/3d0v1WsP)
-###### Sexto punto
+## Sexto punto
 Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
 ``` python
 x=float(input("Escriba una longitud="))
@@ -89,4 +89,4 @@ else:
     print("No")
 ```
 [![Captura-de-pantalla-2023-03-11-155252.png](https://i.postimg.cc/QMkt3pJf/Captura-de-pantalla-2023-03-11-155252.png)](https://postimg.cc/CZ5YCnt8)
-### Fin
+# Fin
